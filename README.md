@@ -1,4 +1,4 @@
-# MobileSensorCloud
+# Air Quality Monitoring using MobileSensorCloud
 
 General Overview
 =======================
